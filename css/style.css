@@ -493,6 +493,9 @@ body {
     .feature-card img {
         top: -4rem; 
     }
+    .feature-info p{
+        display:none;
+    }
   }
 
 /* Scroll Indicator */
