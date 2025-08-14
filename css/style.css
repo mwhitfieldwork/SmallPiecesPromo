@@ -421,6 +421,11 @@ body {
     transform: translateY(-5px);
 }
 
+iframe {
+    height: 100px;
+}
+
+
 /* Animations */
 @keyframes fadeInUp {
     from {
